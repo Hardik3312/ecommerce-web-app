@@ -1,10 +1,10 @@
-# 🛍️ LuxeShop — Industry-Grade E-Commerce Web App
+#  LuxeShop — E-Commerce Web App
 
 A full-stack, production-ready e-commerce platform built with React + Vite (frontend) and Node.js + Express + MongoDB (backend). Features JWT auth, Stripe payments, Cloudinary image uploads, role-based access control, and a stunning modern UI.
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 | Layer      | Technology                                      |
 |------------|-------------------------------------------------|
@@ -18,7 +18,7 @@ A full-stack, production-ready e-commerce platform built with React + Vite (fron
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 ecommerce-web-app/
@@ -31,7 +31,7 @@ ecommerce-web-app/
 
 ---
 
-## ⚡ Quick Start
+##  Quick Start
 
 ### 1. Clone & Install
 
@@ -77,7 +77,7 @@ cd frontend && npm run dev
 
 ---
 
-## 🔐 Default Admin Credentials (after seeding)
+##  Default Admin Credentials (after seeding)
 
 ```
 Email:    admin@luxeshop.com
@@ -86,7 +86,7 @@ Password: Admin@1234
 
 ---
 
-## 📦 Features
+##  Features
 
 - ✅ User registration & login (JWT)
 - ✅ Product listing, search, filter, sort
@@ -102,6 +102,6 @@ Password: Admin@1234
 
 ---
 
-## 📄 License
+##  License
 
 MIT
